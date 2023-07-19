@@ -1,6 +1,8 @@
 # mobile-interview-process at Square
 
-## iOS ##
+The whole proccess may take about two months.
+
+## iOS interviews: ##
 
 1. Recrutier Screening: This stage aims to evaluate your basic qualifications, technical skills, and suitability for the role.
 
