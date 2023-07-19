@@ -1,6 +1,7 @@
 # mobile-interview-process
 Mobile interview process in different companies
 
- 1. [Apple](/Apple.md)
- 2. [Spotify](/Spotify.md)
- 3. [Square](/Square.md)
+ * [Apple](/Apple.md)
+ * [Google](/Google.md)
+ * [Spotify](/Spotify.md) 
+ * [Square](/Square.md)
